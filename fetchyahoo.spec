@@ -39,6 +39,6 @@ rm -rf $RPM_BUILD_ROOT
 %defattr(-,root,root)
 %doc COPYING INSTALL TODO index.html fetchyahoorc ChangeLog Credits
 %_bindir/fetchyahoo
-%_mandir/man1/fetchyahoo.1.bz2
+%_mandir/man1/fetchyahoo.*
 
 

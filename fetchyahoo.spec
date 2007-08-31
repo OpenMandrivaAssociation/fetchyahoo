@@ -1,7 +1,7 @@
 Summary: Downloads mail from an Yahoo! webmail account
 Name: fetchyahoo
 
-Version: 2.10.6
+Version: 2.11.1
 
 Release: %mkrel 1
 URL: http://fetchyahoo.twizzler.org

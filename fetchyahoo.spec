@@ -8,7 +8,6 @@ URL: http://fetchyahoo.twizzler.org
 Source: http://fetchyahoo.twizzler.org/%{name}-%{version}.tar.bz2
 License: GPL
 Group: Networking/Mail
-BuildRoot: %{_tmppath}/%{name}-root
 BuildArch: noarch
 Requires: perl
 

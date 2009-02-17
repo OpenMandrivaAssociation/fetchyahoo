@@ -1,9 +1,9 @@
 Summary: Downloads mail from an Yahoo! webmail account
 Name: fetchyahoo
 
-Version: 2.11.2
+Version: 2.12.4
 
-Release: %mkrel 3
+Release: %mkrel 1
 URL: http://fetchyahoo.twizzler.org
 Source: http://fetchyahoo.twizzler.org/%{name}-%{version}.tar.bz2
 License: GPL

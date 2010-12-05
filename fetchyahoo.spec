@@ -3,7 +3,7 @@ Name: fetchyahoo
 
 Version: 2.13.8
 
-Release: %mkrel 1
+Release: %mkrel 2
 URL: http://fetchyahoo.twizzler.org
 Source: http://fetchyahoo.twizzler.org/%{name}-%{version}.tar.gz
 License: GPL

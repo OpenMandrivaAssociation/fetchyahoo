@@ -1,9 +1,9 @@
 Summary: Downloads mail from an Yahoo! webmail account
 Name: fetchyahoo
 
-Version: 2.13.8
+Version: 2.14.1
 
-Release: %mkrel 2
+Release: %mkrel 1
 URL: http://fetchyahoo.twizzler.org
 Source: http://fetchyahoo.twizzler.org/%{name}-%{version}.tar.gz
 License: GPL
@@ -11,6 +11,7 @@ Group: Networking/Mail
 BuildRoot: %{_tmppath}/%{name}-root
 BuildArch: noarch
 Requires: perl
+Requires: perl-LWP-Protocol-https
 
 %description
 FetchYahoo is a Perl script that downloads mail from a Yahoo! webmail
